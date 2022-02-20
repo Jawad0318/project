@@ -11,10 +11,10 @@
     <ImageView
         android:id="@+id/img"
         android:layout_width="wrap_content"
-        android:layout_height="223dp"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="100dp"
-        android:src="@drawable/jaw"
+        android:layout_height="wrap_content"
+       android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/ppjj"
         />
 
     <TextView
